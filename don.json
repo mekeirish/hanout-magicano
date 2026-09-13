@@ -1,0 +1,10 @@
+{
+  "settings": {
+    "title": "Boutique de magicano",
+    "currency": "DZD",
+    "showStock": true,
+    "ntfyTopic": "magicano_commandes"
+  },
+  "categories": [],
+  "products": []
+}
